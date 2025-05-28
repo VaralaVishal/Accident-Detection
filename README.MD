@@ -54,3 +54,4 @@ Open `http://127.0.0.1:5000` in your browser.
 - **[Krishna Sharma S](https://github.com/krishna16sharma)**  
 - **[Vaibhav Agrawal](https://github.com/vaibhav-agrawal264)**
 - **[Naweed Aquib](https://github.com/aquibn)**
+- **[Varala Vishal](https://github.com/VaralaVishal)**
